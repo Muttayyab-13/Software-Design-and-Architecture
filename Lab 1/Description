@@ -1,4 +1,4 @@
-Implementation of the Liskov Substitution Principle (LSP)
+Implementation of the Liskov Substitution Principle (LSP).
 
 This file demonstrates the application of the Liskov Substitution Principle (LSP), one of the five SOLID principles in object-oriented programming.
 The Liskov Substitution Principle states that objects of a superclass should be replaceable with objects of a subclass without affecting the correctness of the program.
