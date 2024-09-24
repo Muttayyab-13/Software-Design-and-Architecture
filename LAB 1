@@ -1,0 +1,20 @@
+Implementation of the Liskov Substitution Principle (LSP)
+
+This file demonstrates the application of the Liskov Substitution Principle (LSP), one of the five SOLID principles in object-oriented programming.
+The Liskov Substitution Principle states that objects of a superclass should be replaceable with objects of a subclass without affecting the correctness of the program.
+In other words, derived classes must be substitutable for their base classes without altering the expected behavior.
+
+In this implementation, I have carefully designed a class hierarchy where subclasses extend and enhance the functionality of their parent classes while adhering strictly to the contract set by the base class. 
+This ensures that any instance of the derived class can be used interchangeably with instances of the base class, maintaining the robustness and integrity of the system.
+
+Key Features:
+
+1. Demonstrates adherence to LSP by ensuring that derived classes don’t override or change base class behavior in unexpected ways.
+2. Showcases proper inheritance and polymorphism in compliance with LSP.
+3. Includes examples where objects of subclasses seamlessly replace objects of the base class, maintaining system behavior.
+
+4. Violation of LSP: 
+Initially, the implementation violates the Liskov Substitution Principle by introducing a subclass that does not fully adhere to the behavior expected of the parent class. This causes issues when trying to replace instances of the parent class with the subclass, highlighting the problems of not following LSP.
+
+5. Correct Implementation using LSP:
+The second part of the file corrects the initial design by applying the Liskov Substitution Principle. In this version, the subclass conforms to the expected behavior of the parent class, allowing for seamless substitution without any unexpected side effects, thereby adhering to the principle.
