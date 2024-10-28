@@ -1,0 +1,3 @@
+weatherstation.CurrentConditionsDisplay
+weatherstation.CurrentConditionDisplay
+weatherstation.StatisticsDisplay
