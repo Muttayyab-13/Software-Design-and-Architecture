@@ -1,5 +1,0 @@
-onlineshopping.OnlineShopping
-onlineshopping.OnlineShoppingSystem
-onlineshopping.ItemDatabase
-onlineshopping.Customer
-onlineshopping.Item
