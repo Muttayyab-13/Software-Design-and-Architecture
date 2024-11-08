@@ -1,4 +1,4 @@
-// File: onlineshopping/OnlineShopping.java
+
 package onlineshopping;
 
 import onlineshopping.data.ItemRepository;
