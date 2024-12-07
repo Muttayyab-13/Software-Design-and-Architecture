@@ -58,6 +58,7 @@ Your Shopping Cart:
 Laptop - $1200.00
 Technologies Used
 Java: Core programming language.
-Command-line Interface (CLI): For simplicity and portability.
-License
+
+
+# License
 This project is licensed under the MIT License. See the LICENSE file for details.
