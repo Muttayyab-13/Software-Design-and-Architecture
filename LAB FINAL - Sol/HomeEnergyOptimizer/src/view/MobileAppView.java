@@ -16,4 +16,8 @@ public class MobileAppView {
     public void displayNotification(String notification) {
         System.out.println("Notification: " + notification);
     }
+        public void displayMessage(String message) {
+        System.out.println(message);
+    }
+
 }

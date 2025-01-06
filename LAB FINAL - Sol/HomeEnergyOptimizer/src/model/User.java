@@ -13,6 +13,7 @@ public class User {
     private String name;
     private String email;
     private String password;
+    private boolean loggedIn; // New field to track login state
 
     // Constructor
     public User(int userId, String name, String email, String password) {
@@ -20,6 +21,7 @@ public class User {
         this.name = name;
         this.email = email;
         this.password = password;
+        this.loggedIn = false; // Initially, user is not logged in
     }
 
     // Getters and Setters
@@ -34,4 +36,7 @@ public class User {
 
     public String getPassword() { return password; }
     public void setPassword(String password) { this.password = password; }
+
+    public boolean isLoggedIn() { return loggedIn; } // Check if user is logged in
+    public void setLoggedIn(boolean loggedIn) { this.loggedIn = loggedIn; } // Set login state
 }

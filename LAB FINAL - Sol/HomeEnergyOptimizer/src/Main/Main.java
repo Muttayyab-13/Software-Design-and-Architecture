@@ -19,7 +19,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         // Create Model
-        User user = new User(1, "Alice", "alice@example.com", "password123");
+User user = new User(1, "Muttayyab", "muttayyab@123", "1234");
         IoTDevice smartBulb = new IoTDevice(101, "Smart Bulb", "Off", 15.5f);
         CloudBackEnd backend = new CloudBackEnd();
 
