@@ -22,7 +22,7 @@ Features
 Getting Started
 	1.	Clone the repository:
 
-git clone [https://github.com/your-username/repo-name.git  ](https://github.com/Muttayyab-13/Software-Design-and-Architecture/tree/893e43cf9faaffb5c0c029e792bc3bebe192fa87/LAB%20FINAL%20-%20Sol)
+git clone [ https://github.com/Muttayyab-13/Software-Design-and-Architecture/tree/893e43cf9faaffb5c0c029e792bc3bebe192fa87/LAB%20FINAL%20-%20Sol]
 
  2. Navigate to the project directory:
 
